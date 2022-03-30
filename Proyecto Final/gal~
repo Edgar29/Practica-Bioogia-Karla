@@ -1,0 +1,19 @@
+<h1>Galeria de Biotecnologia</h1>
+<table border= "2">
+<tr>
+<td><img src="/media/guest-AYUc9e/ITZEL/Proyecto Final/media/imagenes/ima1.jpg" width="600" height="400"><img></td> </td>
+<td><img src="/media/guest-AYUc9e/ITZEL/Proyecto Final/media/imagenes/ima1.jpg" width="600" height="400"><img></td></td>
+</tr>
+<tr>
+<td>fila 2 izquierda </td>
+<td>fila2 izquierda </td
+</tr>
+<tr>
+<td>fila 2 izquierda </td>
+<td>fila2 izquierda </td
+</tr>
+<tr>
+<td>fila 2 izquierda </td>
+<td>fila2 izquierda </td
+</tr>
+</table>
